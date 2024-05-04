@@ -1,0 +1,31 @@
+ooi@gmail.com,1,Remove virus malware or spyware,normal,50.0,Male,Kl,47000,3456789012,17,october,2023,50.0
+tan@gmail.com,2,Troubleshoot and fix computer running slow,Urgent,90.0,Male,Kl,48000,4567890123,18,october,2023,100
+liew@gmail.com,3,Laptop screen replacement,normal,380.0,male,KL,49000,6789012345,19,october,2023,390.0
+chin@gmail.com,4,Laptop battery replacement,Normal,180.0,Male,Kl,35000,9012345678,31,october,2023,180
+dun@gmail.com,5,Operating System Format and Installation,Urgent,150.0,Male,Kl,10000,0165298627,17,october,2023,160
+kai@gmail.com,6,Operating System Format and Installation,normal,100.0,male,KL,30000,0145678923,17,october,2023,110.0
+tzi@gmail.com,7,Remove virus malware or spyware,normal,50.0,Male,Kl,47000,3456789012,17,november,2023,50.0
+boon@gmail.com,8,Troubleshoot and fix computer running slow,Urgent,90.0,Male,Kl,48000,4567890123,18,november,2023,100
+jun@gmail.com,9,Laptop screen replacement,normal,380.0,male,KL,49000,6789012345,19,november,2023,380.0
+xuan@gmail.com,10,Laptop battery replacement,Normal,180.0,Male,Kl,35000,9012345678,31,november,2024,180
+bo@gmail.com,11,Operating System Format and Installation,Urgent,150.0,Male,Kl,10000,0165298627,17,november,2023,160
+ze@gmail.com,12,Operating System Format and Installation,normal,100.0,male,KL,30000,0145678923,17,december,2023,100.0
+ali@gmail.com,13,Remove virus malware or spyware,normal,50.0,Male,Kl,47000,3456789012,17,december,2023,50.0
+sasi@gmail.com,14,Troubleshoot and fix computer running slow,Urgent,90.0,Male,Kl,48000,4567890123,18,december,2023,100
+bobo@gmail.com,15,Laptop screen replacement,normal,380.0,male,KL,49000,6789012345,19,december,2023,380.0
+nana@gmail.com,16,Laptop battery replacement,Normal,180.0,Male,Kl,35000,9012345678,31,december,2024,200
+cucu@gmail.com,17,Operating System Format and Installation,Urgent,150.0,Male,Kl,10000,0165298627,17,december,2023,160
+cu@gmail.com,18,Operating System Format and Installation,normal,100.0,male,KL,30000,0145678923,17,december,2023,100.0
+ab@gmail.com,19,Remove virus malware or spyware,normal,50.0,Male,Kl,47000,3456789012,17,june,2023,100.0
+ac@gmail.com,20,Troubleshoot and fix computer running slow,Urgent,90.0,Male,Kl,48000,4567890123,18,june,2023,100
+jon@gmail.com,21,Laptop screen replacement,normal,380.0,male,KL,49000,6789012345,19,june,2023,380.0
+ad@gmail.com,22,Laptop battery replacement,Normal,180.0,Male,Kl,35000,9012345678,31,june,2024,180
+qa@gmail.com,23,Operating System Format and Installation,Urgent,150.0,Male,Kl,10000,0165298627,17,june,2023,160
+af@gmail.com,24,Operating System Format and Installation,normal,100.0,male,KL,30000,0145678923,17,june,2023,100.0
+ag@gmail.com,25,Remove virus malware or spyware,normal,50.0,Male,Kl,47000,3456789012,17,june,2023,50.0
+ah@gmail.com,26,Troubleshoot and fix computer running slow,Urgent,90.0,Male,Kl,48000,4567890123,18,june,2023,90
+aj@gmail.com,27,Laptop screen replacement,normal,380.0,male,KL,49000,6789012345,19,july,2023,380.0
+ak@gmail.com,28,Laptop battery replacement,Normal,180.0,Male,Kl,35000,9012345678,31,july,2024,180
+al@gmail.com,29,Operating System Format and Installation,Urgent,150.0,Male,Kl,10000,0165298627,17,july,2023,160
+aq@gmail.com,30,Operating System Format and Installation,normal,100.0,male,KL,30000,0145678923,17,july,2023,100.0
+

@@ -1,0 +1,3 @@
+Admin,admin@gmail.com,1000,male,KL,57000,0123456789
+Technician,technician@gmail.com,2000,male,KL,58000,1234567890
+Receptionist,receptionist@gmail.com,3000,male,KL,20000,0165578862
